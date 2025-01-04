@@ -1,5 +1,7 @@
 # Couter App: Contracts
 
+This is a [foundry](https://getfoundry.sh/) Project with [Soldeer](https://book.getfoundry.sh/reference/cli/forge/soldeer) dependency manager
+
 ## Requirements
 
 - [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
